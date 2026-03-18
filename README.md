@@ -19,7 +19,7 @@ The investigation focuses on analyzing a Windows memory dump to detect suspiciou
 - Mapped activity to MITRE ATT&CK T1218.011  
 
 ## Report
-📄 Full analysis available in: `memory-analysis.md`
+📄 Full analysis available in:Volatility 3.pdf 
 
 Source Lab:https://cyberdefenders.org/blueteam-ctf-challenges/reveal/
 
